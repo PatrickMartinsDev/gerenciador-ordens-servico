@@ -1,4 +1,4 @@
-# OrderManager
+# Gerenciador de Ordens de Serviço
 
 *This project requires that you already have installed in your machine the latest versions of Python and Node.js*
 
