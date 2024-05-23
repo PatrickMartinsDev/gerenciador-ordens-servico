@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class OrdesservicoConfig(AppConfig):
+class OrdemServicoConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'ordesServico'
+    name = 'ordemServico'
