@@ -1,6 +1,6 @@
 # Gerenciador de Ordens de Serviço
 
-The deployed page can be reached at clicking [here](https://gerenciador-ordens-servico-347d7ff3d89b.herokuapp.com/)
+The deployed page can be reached clicking [here](https://gerenciador-ordens-servico-347d7ff3d89b.herokuapp.com/)
 
 *This project requires that you already have installed in your machine the latest versions of Python and Node.js*
 
