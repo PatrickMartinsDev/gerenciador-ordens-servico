@@ -1,14 +1,11 @@
 # Gerenciador de Ordens de Serviço
 
+The deployed page can be reached at clicking [here](https://gerenciador-ordens-servico-347d7ff3d89b.herokuapp.com/)
+
 *This project requires that you already have installed in your machine the latest versions of Python and Node.js*
 
-# First Steps
-- Open the terminal in the folder orderManager/manager
-- run the code to install the libs that are required 
-    pip install -r requirements.txt
-
-# Running the server
-- Now you can run the server. For this you just have to run in your terminal the code below: 
+# Running the server localy
+- Run the code below to run the server: 
     py manage.py runserver
 
 - The server should run and then it will give the port that it's running
